@@ -31,8 +31,6 @@ We loop through the array once, where `n` is the number of elements in `nums`.
 
 ```text id="nwrt1k"
 O(1)
-
 ```
 
 We modify the array directly and do not use any extra data structure.
-
